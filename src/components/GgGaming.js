@@ -8,6 +8,7 @@ const GgGaming = (props) => {
             <div>1. Search apa yang kamu mau pake bahasa inggris</div>
             <div>2. klik enter</div>
             <div>3. enjoy!</div>
+            <div>4. Puti JELEKKK</div>
           </div>;
 };
 
